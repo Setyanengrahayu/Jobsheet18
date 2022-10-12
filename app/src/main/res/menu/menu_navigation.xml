@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navtpfl"
+        android:title="TPFL"/>
+
+    <item
+        android:id="@+id/navto"
+        android:title="TO"/>
+
+    <item
+        android:id="@+id/navpplg"
+        android:title="PPLG"/>
+
+    <item
+        android:id="@+id/navbusana"
+        android:title="BUSANA"/>
+
+    <item
+        android:id="@+id/navkuliner"
+        android:title="KULINER"/>
+
+</menu>
